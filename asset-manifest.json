@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/formik-login-form/static/js/main.d6346ceb.js",
+    "index.html": "/formik-login-form/index.html",
+    "main.d6346ceb.js.map": "/formik-login-form/static/js/main.d6346ceb.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d6346ceb.js"
+  ]
+}
